@@ -2,7 +2,7 @@
 <img width="559" height="91" alt="Screenshot 2026-04-02 162447" src="https://github.com/user-attachments/assets/9f7a1948-3678-48ad-bc90-5bfd383bb327" />
 
 
-### AI powered development and research organisation. Building the future of Fortnite RE, This includes Gameservers and launchers.
+### AI powered development and research organisation. Building the future of Fortnite RE, This includes Gameservers and Backends.
 
 ## What We Do
 
